@@ -41,6 +41,7 @@ end
 #    event << "."
 #end
 
+#動きません
 bot.command(:emoji) do |event, name|
     dame = bot.emoji(460378272757317633)
     begin
